@@ -1,0 +1,2 @@
+# GitSample
+초보
